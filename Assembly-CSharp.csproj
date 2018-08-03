@@ -101,6 +101,28 @@
  <Reference Include="UnityEngine.StandardEvents">
  <HintPath>/Users/houhime/Library/Unity/cache/packages/packages.unity.com/com.unity.standardevents@1.0.10/UnityEngine.StandardEvents.dll</HintPath>
  </Reference>
+ <Reference Include="DemiLib">
+ <HintPath>/Users/houhime/Documents/Desktop/XAN_UnityProject/UIFramework_XAN/Assets/Plugins/Demigiant/DemiLib/Core/DemiLib.dll</HintPath>
+ </Reference>
+ <Reference Include="DOTween43">
+ <HintPath>/Users/houhime/Documents/Desktop/XAN_UnityProject/UIFramework_XAN/Assets/Plugins/Demigiant/DOTween/DOTween43.dll</HintPath>
+ </Reference>
+ <Reference Include="DOTween50">
+ <HintPath>/Users/houhime/Documents/Desktop/XAN_UnityProject/UIFramework_XAN/Assets/Plugins/Demigiant/DOTween/DOTween50.dll</HintPath>
+ </Reference>
+ <Reference Include="DOTween">
+ <HintPath>/Users/houhime/Documents/Desktop/XAN_UnityProject/UIFramework_XAN/Assets/Plugins/Demigiant/DOTween/DOTween.dll</HintPath>
+ </Reference>
+ <Reference Include="DOTweenPro">
+ <HintPath>/Users/houhime/Documents/Desktop/XAN_UnityProject/UIFramework_XAN/Assets/Plugins/Demigiant/DOTweenPro/DOTweenPro.dll</HintPath>
+ </Reference>
+ <Reference Include="DOTween46">
+ <HintPath>/Users/houhime/Documents/Desktop/XAN_UnityProject/UIFramework_XAN/Assets/Plugins/Demigiant/DOTween/DOTween46.dll</HintPath>
+ </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="Assembly-CSharp-firstpass.csproj">
+      <Project>{15AAE99A-94DC-0CCA-E881-BA15DEA6728D}</Project>      <Name>Assembly-CSharp-firstpass</Name>    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

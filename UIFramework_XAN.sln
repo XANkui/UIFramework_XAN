@@ -3,6 +3,10 @@ Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2010
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UIFramework_XAN", "Assembly-CSharp.csproj", "{1BEAD444-29CB-0C87-A8EA-F72B47C75BC8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UIFramework_XAN", "Assembly-CSharp-firstpass.csproj", "{15AAE99A-94DC-0CCA-E881-BA15DEA6728D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UIFramework_XAN", "Assembly-CSharp-Editor-firstpass.csproj", "{DB00F572-A5C3-EC6B-D9D8-9BAC2205C12F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -13,6 +17,14 @@ Global
 		{1BEAD444-29CB-0C87-A8EA-F72B47C75BC8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1BEAD444-29CB-0C87-A8EA-F72B47C75BC8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1BEAD444-29CB-0C87-A8EA-F72B47C75BC8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{15AAE99A-94DC-0CCA-E881-BA15DEA6728D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15AAE99A-94DC-0CCA-E881-BA15DEA6728D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{15AAE99A-94DC-0CCA-E881-BA15DEA6728D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{15AAE99A-94DC-0CCA-E881-BA15DEA6728D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DB00F572-A5C3-EC6B-D9D8-9BAC2205C12F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB00F572-A5C3-EC6B-D9D8-9BAC2205C12F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB00F572-A5C3-EC6B-D9D8-9BAC2205C12F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB00F572-A5C3-EC6B-D9D8-9BAC2205C12F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
