@@ -1,0 +1,14 @@
+{
+"jsonInfoList":
+[
+{"panelTypeString":"Setting",
+"path":"UIPanel/SettingPanel"},
+
+{"panelTypeString":"Info",
+"path":"UIPanel/InfoPanel"},
+
+{"panelTypeString":"MainMenu",
+"path":"UIPanel/MainPanel"}
+
+]
+}
